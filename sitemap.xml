@@ -6,28 +6,28 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <!-- Homepage -->
   <url>
-    <loc>https://singirimahitha.github.io/Tech-platform-sites/</loc>
+    <loc>https://singirimahitha.github.io/Tech-platform-sites/index.html</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <!-- About Page -->
   <url>
-    <loc>https://singirimahitha.github.io/Tech-platform-sites/about/</loc>
+<loc>https://singirimahitha.github.io/Tech-platform-sites/About.html</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- Product Page -->
   <url>
-    <loc>https://singirimahitha.github.io/Tech-platform-sites/product/</loc>
+    <loc>https://singirimahitha.github.io/Tech-platform-sites/product.html/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <!-- Contact Page -->
   <url>
-    <loc>https://singirimahitha.github.io/Tech-platform-sites/contacts/</loc>
+    <loc>https://singirimahitha.github.io/Tech-platform-sites/contacts.html/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
