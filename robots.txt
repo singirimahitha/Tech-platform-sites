@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /  
 Disallow: /private/  
-https://raw.githubusercontent.com/singirimahitha/Tech-platform-sites/main/sitemap.xml
+Sitemap: https://singirimahitha.github.io/Techplatform-site//sitemap.xml  
